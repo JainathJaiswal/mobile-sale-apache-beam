@@ -10,7 +10,7 @@ import org.junit.runners.JUnit4;
 @RunWith(JUnit4.class)
 public class MobileSaleTest {
 	@Test
-	public void testDebuggingWordCount() throws Exception {
+	public void testDebuggingMobileSale() throws Exception {
 
 		MobileSaleOptions options = TestPipeline.testingPipelineOptions().as(MobileSaleOptions.class);
 		options.setInputFile("mobile_sale_list.csv");
