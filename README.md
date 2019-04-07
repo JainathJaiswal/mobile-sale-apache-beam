@@ -43,5 +43,5 @@ Motorola,4<br/>
 #### Many way to run this project:
 1. Junit
 2. Right click through main java file.
-3. mvn compile exec:java -Dexec.mainClass=com.jai.MobileSale -Dexec.args="--output=counts" -Pdirect-runner
+3. mvn compile exec:java -Dexec.mainClass=com.jai.MobileSale -Pdirect-runner
 
